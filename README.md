@@ -1,4 +1,4 @@
 # Docker-Alpine-weight-comparison
-<p>-------------------------- Java JDK --------------------------------------</p>
+## Java JDK
 - openjdk:8         ->             511MB
 
