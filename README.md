@@ -5,6 +5,9 @@
       <th>Size</th>
    </tr>
    <tr>
+      <th colspan="2">JVM</th>   
+   </tr>
+   <tr>
       <td>openjdk:8 </td>
      <td>511MB</td>
    </tr>
