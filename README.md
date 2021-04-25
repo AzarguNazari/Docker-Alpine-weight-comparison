@@ -21,4 +21,4 @@ The image size
 </table>
 
 # Performance Comparison
-![performance comparison](https://github.com/AzarguNazari/Docker-images-comparison/blob/master/RESULT.png?raw=true)
+![performance comparison](https://github.com/AzarguNazari/Docker-images-comparison/blob/master/media/RESULT.png?raw=true)
