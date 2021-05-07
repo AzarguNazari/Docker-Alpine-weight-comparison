@@ -8,8 +8,8 @@ We use the alpine image of nodejs, spring boot with native image, and Qurkus wit
 The image size
 <table>
     <tr>
-        <th>Image Name</th>
-        <th>Size</th>
+        <th>Application</th>
+        <th>Container Image Size</th>
     </tr>
     <tr>
         <td>Java</td>
