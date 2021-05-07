@@ -1,10 +1,9 @@
 # Docker Images and Size Comparison
-In this project, my aim is to compare the docker images size and performance for different languages.
+In this project, my aim is to a performance comparison (CPU, Memory, I/O) and also the size of image containers.
 
-## First attempt Java vs NodeJS
-We tried to compare the image size and their performance of Java and Nodejs.
+## First attempt Java vs NodeJS vs Quarkus
 
-We use the alpine image of nodejs and we use the spring boot with native image.
+We use the alpine image of nodejs, spring boot with native image, and Qurkus with native image.
 
 The image size
 <table>
