@@ -16,8 +16,14 @@ The image size
         <td>Java</td>
         <td>80.7MB</td>
     </tr>
-    <td>NodeJS</td>
-    <td>113MB</td>
+    <tr>
+        <td>NodeJS</td>
+        <td>113MB</td>
+    </tr>
+    <tr>
+        <td>Quarkus</td>
+        <td>132MB</td>
+    </tr>
 </table>
 
 # Performance Comparison
