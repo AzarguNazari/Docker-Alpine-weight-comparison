@@ -2,7 +2,6 @@
 In this project, my aim is to a performance comparison (CPU, Memory, I/O) and also the size of image containers.
 
 ## First attempt Java vs NodeJS vs Quarkus
-
 We use the alpine image of nodejs, spring boot with native image, and Qurkus with native image.
 
 The image size
