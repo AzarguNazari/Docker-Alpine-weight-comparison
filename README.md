@@ -11,7 +11,7 @@ The image size
         <th>Container Image Size</th>
     </tr>
     <tr>
-        <td>Java</td>
+        <td>Spring Boot</td>
         <td>80.7MB</td>
     </tr>
     <tr>
@@ -21,6 +21,10 @@ The image size
     <tr>
         <td>Quarkus</td>
         <td>132MB</td>
+    </tr>
+    <tr>
+        <td>FastAPI (Alpine Python)</td>
+        <td>54.9MB</td>
     </tr>
 </table>
 
