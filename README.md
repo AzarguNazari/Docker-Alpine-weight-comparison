@@ -1,6 +1,12 @@
 # Docker Images and Size Comparison
 In this project, my aim is to a performance comparison (CPU, Memory, I/O) and also the size of image containers.
 
+## Prerequisite
+- `Java 8+`
+- `Maven`
+- `docker`
+- `htop`
+
 # Frameworks Image Size Comparison
 <table>
     <tr>
